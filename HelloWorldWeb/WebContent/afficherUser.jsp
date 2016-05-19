@@ -23,7 +23,7 @@
 
         <%-- Puis affichage des données enregistrées dans le bean "client" transmis par la servlet --%>
 
-        <p>TEST Nom : ${ client.nom }</p>
+        <p>TEST TRUC Nom : ${ client.nom }</p>
 
         <p>Prénom : ${ client.prenom }</p>
 
