@@ -29,7 +29,7 @@
 
         <p>GIT HUB Adresse : ${ client.adresse }</p>
 
-        <p>TEST Numéro de téléphone : ${ client.telephone }</p>
+        <p>TEST TEST Numéro de téléphone : ${ client.telephone }</p>
 
         <p>Email : ${ client.email }</p>
 
