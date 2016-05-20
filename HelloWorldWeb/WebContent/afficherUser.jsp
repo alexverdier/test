@@ -25,7 +25,7 @@
 
         <p>TEST TRUC Nom : ${ client.nom }</p>
 
-        <p>Prénom : ${ client.prenom }</p>
+        <p>TRUC Prénom : ${ client.prenom }</p>
 
         <p>Adresse : ${ client.adresse }</p>
 
