@@ -27,7 +27,7 @@
 
         <p>TRUC Prénom : ${ client.prenom }</p>
 
-        <p>Adresse : ${ client.adresse }</p>
+        <p>GIT HUB Adresse : ${ client.adresse }</p>
 
         <p>Numéro de téléphone : ${ client.telephone }</p>
 
