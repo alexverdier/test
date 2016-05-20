@@ -23,11 +23,11 @@
 
         <%-- Puis affichage des données enregistrées dans le bean "client" transmis par la servlet --%>
 
-        <p>TEST Nom : ${ client.nom }</p>
+        <p>TEST TRUC Nom : ${ client.nom }</p>
 
-        <p>Prénom : ${ client.prenom }</p>
+        <p>TRUC Prénom : ${ client.prenom }</p>
 
-        <p>Adresse : ${ client.adresse }</p>
+        <p>GIT HUB Adresse : ${ client.adresse }</p>
 
         <p>Numéro de téléphone : ${ client.telephone }</p>
 
