@@ -31,7 +31,7 @@
 
         <p>TEST TEST Numéro de téléphone : ${ client.telephone }</p>
 
-        <p>Email : ${ client.email }</p>
+        <p> bug FIX master Email : ${ client.email }</p>
 
     </body>
 
