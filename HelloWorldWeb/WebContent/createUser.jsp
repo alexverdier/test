@@ -20,7 +20,7 @@
 
                 <fieldset>
 
-                    <legend>Informations user</legend>
+                    <legend>Informations Client</legend>
 
     
 
