@@ -9,7 +9,7 @@
 
         <meta charset="utf-8" />
 
-        <title>Ablabla ffichage d'un client</title>
+        <title>Affichage d'un client</title>
 
         <link type="text/css" rel="stylesheet" href="inc/style.css" />
 
